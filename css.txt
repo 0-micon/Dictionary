@@ -1024,7 +1024,7 @@ line-height
 	The used value is this unitless <number> multiplied by the element's font size.
 text-align
 	It can be used to align the text left, center or right. There are additional possible values like justify and justify-all.
-		blockquote { text-align: right; }
+		blockquote { text-align: right; } /* align to the right edge */
 text-decoration
 	The values are: underline, overline, line-through, and none;  They can combined.
 		span { text-decoration: underline overline line-through; } /* everything */
